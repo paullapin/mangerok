@@ -1,0 +1,96 @@
+@font-face {
+   font-family: "Inter SemiBold";
+   src: url("fonts/Inter SemiBold.woff") format("woff"), url("fonts/Inter SemiBold.eot") format("embedded-opentype"), url("fonts/Inter SemiBold.ttf") format("truetype"), url("fonts/Inter SemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Book";
+   src: url("fonts/BebasNeueBook.woff") format("woff"), url("fonts/BebasNeueBook.eot") format("embedded-opentype"), url("fonts/BebasNeueBook.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Helvetica";
+   src: url("fonts/Helvetica.woff") format("woff"), url("fonts/Helvetica.eot") format("embedded-opentype"), url("fonts/Helvetica.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "HelveticaNeueCyr";
+   src: url("fonts/HelveticaNeueCyr-Bold.woff") format("woff"), url("fonts/HelveticaNeueCyr-Bold.eot") format("embedded-opentype"), url("fonts/HelveticaNeueCyr-Bold.ttf") format("truetype"), url("fonts/HelveticaNeueCyr-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "HelveticaNeueCyr";
+   src: url("fonts/HelveticaNeueCyr-Light.woff") format("woff"), url("fonts/HelveticaNeueCyr-Light.eot") format("embedded-opentype"), url("fonts/HelveticaNeueCyr-Light.ttf") format("truetype"), url("fonts/HelveticaNeueCyr-Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "HelveticaNeueCyr";
+   src: url("fonts/HelveticaNeueCyr-Thin.woff") format("woff"), url("fonts/HelveticaNeueCyr-Thin.eot") format("embedded-opentype"), url("fonts/HelveticaNeueCyr-Thin.ttf") format("truetype"), url("fonts/HelveticaNeueCyr-Thin.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "HelveticaNeueCyr";
+   src: url("fonts/HelveticaNeueCyr-Roman.woff") format("woff"), url("fonts/HelveticaNeueCyr-Roman.eot") format("embedded-opentype"), url("fonts/HelveticaNeueCyr-Roman.ttf") format("truetype"), url("fonts/HelveticaNeueCyr-Roman.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Black.woff") format("woff"), url("fonts/Montserrat-Black.eot") format("embedded-opentype"), url("fonts/Montserrat-Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Light.woff") format("woff"), url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Georgia Pro Cond Black";
+   src: url("fonts/Georgia Pro Cond Black.woff") format("woff"), url("fonts/Georgia Pro Cond Black.eot") format("embedded-opentype"), url("fonts/Georgia Pro Cond Black.ttf") format("truetype"), url("fonts/Georgia Pro Cond Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Georgia Pro Cond Black";
+   src: url("fonts/Georgia Pro Cond Black Italic.woff") format("woff"), url("fonts/Georgia Pro Cond Black Italic.eot") format("embedded-opentype"), url("fonts/Georgia Pro Cond Black Italic.ttf") format("truetype"), url("fonts/Georgia Pro Cond Black Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
