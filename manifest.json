@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#001937",
- "display": "fullscreen",
  "theme_color": "#001937",
+ "display": "fullscreen",
  "start_url": "index.htm",
- "name": "МАНЖЕРОК"
+ "name": "МАНЖЕРОК",
+ "background_color": "#001937"
 }
